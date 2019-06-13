@@ -16,7 +16,6 @@
 # 番号付きリスト
 
 1. list
-
 1. list
   1. list
   1. list
