@@ -17,10 +17,9 @@
 
 1. list
 1. list
+1. list
 	1. list
 	1. list
-	1. list
-
 
 1. 番号付きリスト1
     1. 番号付きリスト1-1
