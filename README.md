@@ -35,8 +35,9 @@
 * * *
 
 # リンク
-[Google](https://www.google.co.jp/)
-
-[google][G]
-
+[Google](https://www.google.co.jp/)  
+[google][G]  
 [G]:https://www.google.co.jp/
+
+# HTML
+この文に上付き文字をつけます。<sup>上付き文字</sup>
