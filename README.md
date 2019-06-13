@@ -33,3 +33,7 @@
 # 水平線
 ---
 * * *
+
+# リンク
+[Google](https://www.google.co.jp/)
+[ここからgoogle][Google]
