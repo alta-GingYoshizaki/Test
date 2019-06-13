@@ -36,4 +36,5 @@
 
 # リンク
 [Google](https://www.google.co.jp/)
-[ここからgoogle][Google]
+[G]:https://www.google.co.jp/
+[参照名からgoogle][G]
