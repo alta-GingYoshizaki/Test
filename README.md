@@ -6,6 +6,7 @@
 ---
 
 # 箇条書きリスト
+
 - list1
   - list1.1
     - list1.1.2
@@ -13,8 +14,10 @@
 ---
 
 # 番号付きリスト
+
 1. list
+
 1. list
   1. list
   1. list
-1. list
+  1. list
